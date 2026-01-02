@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "private": true,
-  "homepage": "https://nzlotrfan.github.io/my-app",
+  "homepage": "https://nzlotrfan.github.io/ci-cd-github-actions",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
